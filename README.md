@@ -1,7 +1,7 @@
 # Healthy-Recipes
 
 ## General info
-Developing the HTML/CSS based off a given specsheet. 
+BASIC BASIC HTML w/very light CSS
 	
 ## Technologies
 Project is created with:
